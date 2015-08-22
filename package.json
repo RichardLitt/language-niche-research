@@ -1,0 +1,22 @@
+{
+  "name": "language-niche-research",
+  "version": "1.0.0",
+  "description": "Scientific repository for fiddling around with linguistic data",
+  "main": "ngrams.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RichardLitt/language-niche-research.git"
+  },
+  "author": "Richard Littauer <richard.littauer@gmail.com> (http://burntfen.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/language-niche-research/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/language-niche-research",
+  "dependencies": {
+    "natural": "^0.2.1"
+  }
+}
