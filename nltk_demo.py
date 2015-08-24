@@ -54,10 +54,10 @@ print "Type count:", fd.B()
 
 # We can get the frequency of a word by treating the
 # FreqDist as a dict and looking up a word
-print "Occurences of 'darcy':", fd['darcy']
-print "Occurences of 'love':", fd['love']
-print "Occurences of 'money':", fd['money']
-print "Occurences of 'pounds':", fd['pounds']
+# print "Occurences of 'darcy':", fd['darcy']
+# print "Occurences of 'love':", fd['love']
+# print "Occurences of 'money':", fd['money']
+# print "Occurences of 'pounds':", fd['pounds']
 
 # Find out how many tokens end in -ed
 # We just ask for the length of the list of tokens
