@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/RichardLitt/language-niche-research",
   "dependencies": {
-    "natural": "^0.2.1"
+    "natural": "^0.5.4"
   }
 }
